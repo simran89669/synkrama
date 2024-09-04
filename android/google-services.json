@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434124355329",
+    "project_id": "fluttertest-20cc2",
+    "storage_bucket": "fluttertest-20cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434124355329:android:4a7eefdff579fdd6fc0d00",
+        "android_client_info": {
+          "package_name": "com.example.synkrama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_0mOIZaHCiOV0XfxcrNg5y4n_yJCKFmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
